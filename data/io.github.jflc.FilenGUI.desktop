@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Filen GUI
+GenericName=Filen.io Client
+Comment=Manage your Filen.io files from your desktop
+Exec=filen-gui
+Icon=io.github.jflc.FilenGUI
+Terminal=false
+Categories=Network;FileTransfer;Utility;
+Keywords=filen;cloud;files;storage;sync;
+StartupNotify=true
+StartupWMClass=io.github.jflc.FilenGUI
