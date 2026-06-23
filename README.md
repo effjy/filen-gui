@@ -19,8 +19,6 @@ Credits: **Filen.io Team** (for the open-source SDK that documents the protocol)
 
 ![Filen GUI screenshot](screenshot.png)
 
-> _Take your own screenshot and save it next to this README as `screenshot.png`._
-
 ## Features
 
 - Secure login (Filen auth versions **2** and **3**, including two-factor codes)
